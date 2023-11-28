@@ -14,5 +14,10 @@ public class TestScriptTest {
 		System.out.println("===testScript2===");
 
 	}
+	@Test
+	public void test3() {
+		System.out.println("===testScript3===");
+
+	}
 
 }
