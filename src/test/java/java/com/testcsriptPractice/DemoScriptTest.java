@@ -17,7 +17,17 @@ public class DemoScriptTest {
 	
 	@Test(groups = "smoke")
 	public void demo3() {
-		System.out.println("====Demo2====");
+		System.out.println("====Demo3====");
+
+	}
+	@Test(groups = "smoke")
+	public void demo4() {
+		System.out.println("====Demo4====");
+
+	}
+	@Test(groups = "smoke")
+	public void demo5() {
+		System.out.println("====Demo5====");
 
 	}
 }
