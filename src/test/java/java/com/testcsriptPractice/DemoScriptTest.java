@@ -27,12 +27,12 @@ public class DemoScriptTest {
 
 	}
 	@Test(groups = "smoke")
-	public void demo4() {
+	public void demo5() {
 		System.out.println("====Demo4====");
 
 	}
 	@Test(groups = "smoke")
-	public void demo5() {
+	public void demo7() {
 		System.out.println("====Demo5====");
 
 	}
