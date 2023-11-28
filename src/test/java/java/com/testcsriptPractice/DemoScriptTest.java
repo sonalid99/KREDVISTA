@@ -17,7 +17,7 @@ public class DemoScriptTest {
 	
 
 	@Test(groups = "smoke")
-	public void demo4() {
+	public void demo7() {
 		System.out.println("====Demo2====");
 
 	}
