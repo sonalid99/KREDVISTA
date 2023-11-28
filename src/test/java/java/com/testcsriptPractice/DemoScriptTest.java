@@ -18,6 +18,10 @@ public class DemoScriptTest {
 
 	@Test(groups = "smoke")
 	public void demo4() {
+		System.out.println("dfghhbgfcvghjn m");
+		if(1==1) {
+			System.out.println("bh");
+		}
 		System.out.println("====Demo2====");
 
 	}
