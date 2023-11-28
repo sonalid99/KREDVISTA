@@ -7,8 +7,9 @@ public class Demo4Test {
 	public void demo3() {
 		System.out.println("====Demo2====");
 	}
-public void demo7() {
-	System.out.println("hi hello bye");
 
+	public void demo7() {
+		System.out.println("hi hello bye");
+		System.out.println("hii");
 	}
 }
