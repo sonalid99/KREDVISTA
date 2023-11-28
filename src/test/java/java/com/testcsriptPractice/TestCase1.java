@@ -14,4 +14,10 @@ public class TestCase1 {
 		System.out.println("====Demo5====");
 
 	}
+	
+	@Test(groups = "smoke")
+	public void demo() {
+		System.out.println("====hiii====");
+
+	}
 }
