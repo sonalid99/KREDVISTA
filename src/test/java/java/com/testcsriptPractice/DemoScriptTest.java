@@ -38,6 +38,7 @@ public class DemoScriptTest {
 	@Test(groups = "smoke")
 	public void demo5() {
 		System.out.println("====Demo5====");
+		System.out.println("Aapana mane khusi to");
 
 	}
 	
