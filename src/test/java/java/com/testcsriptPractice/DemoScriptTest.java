@@ -12,16 +12,16 @@ public class DemoScriptTest {
 	@Test(groups = "smoke")
 	public void demo2() {
 		System.out.println("====Demo2====");
-
+  
+		System.out.println("======byeeeee===");
 	}
+	
+	
 	
 
 	@Test(groups = "smoke")
-	public void demo4() {
-		System.out.println("dfghhbgfcvghjn m");
-		if(1==1) {
-			System.out.println("bh");
-		}
+
+	public void demo() {
 		System.out.println("====Demo2====");
 
 	}
@@ -38,12 +38,17 @@ public class DemoScriptTest {
 	@Test(groups = "smoke")
 	public void demo7() {
 		System.out.println("====Demo5====");
+		System.out.println("====aapan mane khusi to====");
 
 	}
 	
 	@Test(groups = "smoke")
 	public void demo6() {
-		System.out.println("====Demo5====");
-
+		System.out.println("====Demo6====");
+		System.out.println("--hello---");
+		System.out.println("====bye===");
+		
+		
+		
 	}
 }
