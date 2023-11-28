@@ -48,6 +48,7 @@ public class DemoScriptTest {
 		System.out.println("====bye===");
 		
 		System.out.println("heyyyyyyyyyyyy");
+		System.out.println("123456789");
 		
 	}
 }
