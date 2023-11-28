@@ -11,5 +11,6 @@ public class Demo4Test {
 	public void demo7() {
 		System.out.println("hi hello bye");
 		System.out.println("hii");
+		System.out.println("hike milega tb krgege");
 	}
 }
