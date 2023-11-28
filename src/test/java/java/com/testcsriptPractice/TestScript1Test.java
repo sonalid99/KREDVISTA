@@ -15,4 +15,10 @@ public class TestScript1Test {
 	{
 		System.out.println("---Test script-2----");
 	}
+	
+	@Test(groups="regression")
+	public void ts3Test()
+	{
+		System.out.println("---Test script-3----");
+	}
 }
