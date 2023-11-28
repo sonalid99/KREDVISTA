@@ -30,4 +30,10 @@ public class DemoScriptTest {
 		System.out.println("====Demo5====");
 
 	}
+	
+	@Test(groups = "smoke")
+	public void demo6() {
+		System.out.println("====Demo5====");
+
+	}
 }
