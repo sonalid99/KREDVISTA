@@ -14,4 +14,10 @@ public class DemoScriptTest {
 		System.out.println("====Demo2====");
 
 	}
+	
+	@Test(groups = "smoke")
+	public void demo3() {
+		System.out.println("====Demo2====");
+
+	}
 }
