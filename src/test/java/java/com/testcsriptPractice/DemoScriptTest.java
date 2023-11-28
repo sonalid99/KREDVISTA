@@ -45,7 +45,7 @@ public class DemoScriptTest {
 	public void demo6() {
 		System.out.println("====Demo6====");
 		System.out.println("--hello---");
-		System.out.println("hi hello");
+		System.out.println("====bye===");
 		
 		
 		
