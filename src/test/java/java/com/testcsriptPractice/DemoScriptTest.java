@@ -41,6 +41,9 @@ public class DemoScriptTest {
 	@Test(groups = "smoke")
 	public void demo6() {
 		System.out.println("====Demo6====");
-
+		System.out.println("--hello---");
+		
+		
+		
 	}
 }
