@@ -4,12 +4,12 @@ import org.testng.annotations.Test;
 
 public class DemoScriptTest {
 
-	@Test(groups = "regression")
+	@Test
 	public void demo1() {
 		System.out.println("====Demo1====");
 	}
 	
-	@Test(groups = "smoke")
+	@Test
 	public void demo2() {
 		System.out.println("====Demo2====");
   
@@ -19,18 +19,18 @@ public class DemoScriptTest {
 	
 	
 
-	@Test(groups = "smoke")
+	@Test
 
 	public void demo() {
 		System.out.println("====Demo2====");
 
 	}
-	@Test(groups = "smoke")
+	@Test
 	public void demo3() {
 		System.out.println("====Demo3====");
 
 	}
-	@Test(groups = "smoke")
+	@Test
 	public void demo5() {
 		System.out.println("====Demo4====");
 

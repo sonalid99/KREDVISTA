@@ -4,19 +4,19 @@ import org.testng.annotations.Test;
 
 public class TestScript1Test {
 
-	@Test(groups = "smoke")
+	@Test
 	public void ts1Test()
 	{
 		System.out.println("---Test script-1----");
 	}
 	
-	@Test(groups="regression")
+	@Test
 	public void ts2Test()
 	{
 		System.out.println("---Test script-2----");
 	}
 	
-	@Test(groups="regression")
+	@Test
 	public void ts3Test()
 	{
 		System.out.println("---Test script-3----");
